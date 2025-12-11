@@ -1,0 +1,308 @@
+[
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S2",
+    "label": "ambiguous",
+    "reasoning": "The sentence is a factual statement about the presence of four questions and does not clearly express affect, judgement, or appraisal."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S4",
+    "label": "ambiguous",
+    "reasoning": "This is a direct quotation of a question and does not contain affect, judgement, or appraisal."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S5",
+    "label": "ambiguous",
+    "reasoning": "This is another direct quotation of a question, with no clear affect, judgement, or appraisal."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S6",
+    "label": "affect",
+    "reasoning": "The speaker expresses a positive emotional response ('I love this one')."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S8",
+    "label": "ambiguous",
+    "reasoning": "This is a quoted question and does not express affect, judgement, or appraisal."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S12",
+    "label": "judgement",
+    "reasoning": "The sentence evaluates the quality of a question and the nature of science, implying a negative judgement about the appropriateness of the question."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S21",
+    "label": "ambiguous",
+    "reasoning": "This is a report of a commonly asked question, not an explicit affect, judgement, or appraisal."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S23",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the American Association for the Advancement of Science as 'one of the leading organizations in science.'"
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S25",
+    "label": "appraisal",
+    "reasoning": "The sentence invites comparison and evaluation between scientists' and public opinions, which is an act of appraisal."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S26",
+    "label": "ambiguous",
+    "reasoning": "This is a factual question about process or history, not an affect, judgement, or appraisal."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S27",
+    "label": "ambiguous",
+    "reasoning": "This is a repetition of the previous question, still not expressing affect, judgement, or appraisal."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S28",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the distance between scientists and the public on science issues, which is an appraisal of the situation."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S29",
+    "label": "affect",
+    "reasoning": "The phrase 'come a little bit closer to home for me' expresses a personal connection or feeling toward the topic."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S32",
+    "label": "ambiguous",
+    "reasoning": "This is a factual question, not an affect, judgement, or appraisal."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S34",
+    "label": "affect",
+    "reasoning": "The speaker expresses interest and personal engagement with the question, indicating affect."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S39",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the terms as 'big, fancy, academic,' which is an appraisal of their nature."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S44",
+    "label": "judgement",
+    "reasoning": "The sentence evaluates people's behavior ('we're probably all a little bit guilty'), which is a judgement of character or conduct."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S49",
+    "label": "affect",
+    "reasoning": "The speaker expresses a personal experience and reaction to receiving tweets, indicating affect."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S50",
+    "label": "affect",
+    "reasoning": "The speaker describes the tweet as 'cute' and says it 'makes me chuckle,' both of which express affect."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S51",
+    "label": "judgement",
+    "reasoning": "The sentence evaluates the tweet as 'fundamentally scientifically flawed,' which is a judgement of its quality or correctness."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S59",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the terminology as 'fancy' and describes the phenomenon of 'illusory superiority complex,' which is an appraisal of knowledge and perception."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S60",
+    "label": "judgement",
+    "reasoning": "The sentence evaluates people's tendency to overestimate their knowledge, which is a judgement of their cognitive behavior."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S61",
+    "label": "judgement",
+    "reasoning": "The sentence judges people for underestimating what they don't know, which is a judgement of their cognitive behavior."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S63",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises cognitive dissonance as 'interesting,' which is an evaluation of the concept."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S65",
+    "label": "judgement",
+    "reasoning": "The sentence judges the behavior of intelligent people asking about a rodent's forecast as an example of cognitive dissonance."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S68",
+    "label": "ambiguous",
+    "reasoning": "The sentence is a factual statement about people's familiarity with the Farmer's Almanac, not an affect, judgement, or appraisal."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S69",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the accuracy of the Farmer's Almanac as 'only about 37 percent,' which is an evaluation."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S70",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the current era as one where science enables accurate weather forecasting."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S71",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the accuracy of weather forecasts as 'about 90 percent accurate, or more.'"
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S72",
+    "label": "judgement",
+    "reasoning": "The sentence judges people's tendency to remember only the occasional miss in weather forecasts."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S74",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the impact of biases and perceptions on people's views about science."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S78",
+    "label": "affect",
+    "reasoning": "The speaker expresses a personal experience ('I deal with this all the time'), indicating affect."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S79",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the source of the forecast as problematic ('here's the problem: it didn't come from the Hurricane Center')."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S81",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the forecast as not coming from the authoritative source."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S83",
+    "label": "affect",
+    "reasoning": "The speaker expresses interest in what they observed ('really interesting things'), indicating affect."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S89",
+    "label": "affect",
+    "reasoning": "The speaker expresses fascination ('fascinating to me'), indicating affect."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S90",
+    "label": "affect",
+    "reasoning": "The speaker admits to being a 'weather geek,' which expresses a personal enthusiasm or affect."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S92",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the existence of scientific understanding and the lack of need for certain perceptions and biases."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S98",
+    "label": "affect",
+    "reasoning": "The sentence reports people's surprise and emotional reaction to the severity of an event."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S101",
+    "label": "affect",
+    "reasoning": "The speaker describes the situation as 'amusing' and acknowledges a common struggle, indicating affect."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S106",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the event as 'an anomaly event, that's outside of the normal.'"
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S114",
+    "label": "ambiguous",
+    "reasoning": "The sentence is a factual statement about the amount of something ('All two inches of it'), with no clear affect, judgement, or appraisal."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S116",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises people's perception of a weather advisory as a downgrade."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S117",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the perception as incorrect and the actual situation as an upgrade."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S118",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the situation as worsening based on new data."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S132",
+    "label": "judgement",
+    "reasoning": "The sentence evaluates the importance of speaking out, which is a judgement about appropriate behavior."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S139",
+    "label": "judgement",
+    "reasoning": "The speaker judges their own past behavior as a mistake and lacking awareness."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S142",
+    "label": "judgement",
+    "reasoning": "The speaker judges their own honesty and willingness to admit a fault."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S144",
+    "label": "judgement",
+    "reasoning": "The sentence judges the act of saying 'nothing' as irresponsible for a scientist or person."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S146",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the purpose of expanding our radius as preserving life as we know it."
+  },
+  {
+    "text_id": "Sci10.",
+    "sentence_id": "S149",
+    "label": "affect",
+    "reasoning": "The sentence is an expression of gratitude, which is an affective response."
+  }
+]

@@ -1,0 +1,13 @@
+Models used: 
+
+GPT 4.1 
+GPT 4.1 Mini
+
+Parameters: 
+
+temp.:0.0
+top_p: 1.00
+
+Only the texts with an IAA >= 0.4 were used for the evaluative category. 
+
+From those, only the sentences that were labeled as evaluative by both annotators were used. 

@@ -1,0 +1,2 @@
+Holger Menzel did not put whether the sentences are evaluative or not.
+Therefore I cannot calculate Krippendorff's Alpha

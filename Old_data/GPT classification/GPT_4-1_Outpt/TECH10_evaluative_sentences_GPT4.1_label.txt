@@ -1,0 +1,290 @@
+[
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S2",
+"label": "ambiguous",
+"reasoning": "The sentence is a rhetorical question expressing confusion or lack of understanding, but does not clearly express affect, judgement, or appraisal."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S6",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the situation as a 'challenge,' which is an appraisal of difficulty."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S7",
+"label": "appraisal",
+"reasoning": "The sentence appraises the task as 'pretty easy,' which is an evaluation of difficulty."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S8",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the task as 'really difficult,' which is an appraisal of difficulty."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S9",
+"label": "appraisal",
+"reasoning": "The sentence appraises avoiding CO2 emissions as 'easy,' which is an evaluation of difficulty."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S10",
+"label": "judgement",
+"reasoning": "The sentence implicitly judges society's behavior as lacking or failing to do what is 'easy.'"
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S12",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the task as 'difficult' but 'possible,' which are appraisals of feasibility and difficulty."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S15",
+"label": "appraisal",
+"reasoning": "The sentence appraises the work of engineers and scientists as 'invaluable,' and the overall effort as 'not enough,' both of which are evaluations."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S16",
+"label": "affect",
+"reasoning": "The phrase 'The good news is' expresses a positive emotional reaction."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S17",
+"label": "appraisal",
+"reasoning": "The sentence appraises human ingenuity and technology as enabling CO2 removal, which is an evaluation of capability."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S25",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the design as needing to be 'really, really wide' to be effective, which is an appraisal of adequacy."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S30",
+"label": "appraisal",
+"reasoning": "The sentence appraises the design as having a 'unique characteristic,' which is an evaluation."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S33",
+"label": "appraisal",
+"reasoning": "The sentence appraises the recycling process as requiring an 'enormous amount of heat,' which is an evaluation of resource intensity."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S36",
+"label": "appraisal",
+"reasoning": "The sentence evaluates high-purity CO2 as 'really important' and 'easier' to handle, which are appraisals of importance and ease."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S44",
+"label": "judgement",
+"reasoning": "The sentence advises caution in choosing a power plant, which is a judgement about prudent behavior."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S50",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the cost as 'way too expensive' and 'not feasible,' which are appraisals of affordability and practicality."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S58",
+"label": "appraisal",
+"reasoning": "The sentence appraises the approach as 'liquid-based' and using 'cheap' natural gas, which are evaluations of method and cost."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S59",
+"label": "appraisal",
+"reasoning": "The sentence appraises the approach as 'clever,' which is an evaluation of ingenuity."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S66",
+"label": "ambiguous",
+"reasoning": "The sentence is a transitional phrase and does not clearly express affect, judgement, or appraisal."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S67",
+"label": "appraisal",
+"reasoning": "The sentence appraises a synthetic forest as having a 'significant advantage,' which is an evaluation."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S75",
+"label": "judgement",
+"reasoning": "The sentence judges the current system as not rewarding people for a certain action, which is a social evaluation."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S78",
+"label": "appraisal",
+"reasoning": "The sentence appraises carbon markets as 'great,' which is an evaluation."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S79",
+"label": "affect",
+"reasoning": "The sentence expresses a desire to prevent disillusionment, which is an affective state."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S80",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the size of carbon markets as 'not large enough,' which is an appraisal of adequacy."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S81",
+"label": "appraisal",
+"reasoning": "The sentence appraises the carbon markets as 'positive' for enabling learning and new plants, which is an evaluation."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S83",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative statement about what 'we' need to do, which is a judgement about collective responsibility."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S84",
+"label": "appraisal",
+"reasoning": "The sentence evaluates clever thinking and technology as 'not going to be enough,' which is an appraisal of sufficiency."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S85",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative judgement about the need for regulation, subsidies, and taxes."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S86",
+"label": "judgement",
+"reasoning": "The sentence judges the willingness to pay more as insufficient and prescribes what is required for societal impact."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S87",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative judgement about the need for investment in research and development."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S90",
+"label": "appraisal",
+"reasoning": "The sentence appraises the achievement of getting people safely to the moon and back as significant."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S92",
+"label": "appraisal",
+"reasoning": "The sentence appraises direct air capture as 'one front in our fight,' and the investment as significant, which are evaluations."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S94",
+"label": "affect",
+"reasoning": "The sentence expresses mixed feelings: 'hard' (challenge) but 'fun' (enjoyment), which are affective states."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S98",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the amount as 'not much,' which is an appraisal of quantity."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S102",
+"label": "appraisal",
+"reasoning": "The sentence appraises the investment as 'absolutely significant,' which is an evaluation."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S106",
+"label": "appraisal",
+"reasoning": "The sentence appraises the downside of natural gas as emitting CO2, which is an evaluation of negative impact."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S107",
+"label": "appraisal",
+"reasoning": "The sentence appraises the effectiveness of direct air capture with natural gas as limited, unless a 'clever approach' is used."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S109",
+"label": "appraisal",
+"reasoning": "The sentence appraises the process of optimizing plant locations as important for effectiveness."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S111",
+"label": "appraisal",
+"reasoning": "The sentence appraises negative emissions as 'not a silver bullet,' but potentially helpful, which are evaluations."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S112",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative judgement about the need for caution."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S113",
+"label": "appraisal",
+"reasoning": "The sentence appraises the approach as 'alluring' and 'risky,' which are evaluations."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S114",
+"label": "judgement",
+"reasoning": "The sentence judges the potential behavior of people as problematic if they are tempted to continue burning fossil fuels."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S115",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative judgement about how negative emissions should be viewed in relation to other solutions."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S116",
+"label": "ambiguous",
+"reasoning": "The sentence is a personal anecdote and does not clearly express affect, judgement, or appraisal."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S117",
+"label": "affect",
+"reasoning": "The sentence expresses amazement, which is an affective state."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S119",
+"label": "appraisal",
+"reasoning": "The sentence appraises the work as 'about saving human lives,' which is an evaluation of purpose and value."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S120",
+"label": "appraisal",
+"reasoning": "The sentence appraises the potential of a synthetic forest to 'enable us to preserve' important things, which is an evaluation of impact."
+},
+{
+"a_Text_ID": "Tech10.",
+"a_Sentence_ID": "S121",
+"label": "affect",
+"reasoning": "The sentence is an expression of gratitude, which is an affective state."
+}
+]
