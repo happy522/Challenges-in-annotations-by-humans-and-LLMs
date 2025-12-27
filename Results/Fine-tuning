@@ -1,0 +1,14 @@
+=== BINARY CLASSIFICATION REPORT ===
+                precision    recall  f1-score   support
+
+Non-evaluative       0.70      0.45      0.55        71
+    Evaluative       0.70      0.87      0.77       105
+
+      accuracy                           0.70       176
+     macro avg       0.70      0.66      0.66       176
+  weighted avg       0.70      0.70      0.68       176
+
+Accuracy : 0.6989
+Precision: 0.7000
+Recall   : 0.8667
+F1       : 0.7745
