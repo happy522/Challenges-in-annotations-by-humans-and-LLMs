@@ -1,4 +1,4 @@
-=== BINARY CLASSIFICATION REPORT ===
+=== BINARY CLASSIFICATION REPORT === (test_eval_binary.py)
                 precision    recall  f1-score   support
 
 Non-evaluative       0.70      0.45      0.55        71
