@@ -1,0 +1,278 @@
+[
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S3",
+    "label": "affect",
+    "reasoning": "The sentence describes pouring 'my heart and my soul' into an album and feeling 'more and more depressed,' which are clear expressions of emotional states."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S5",
+    "label": "affect",
+    "reasoning": "The sentence describes the experience as 'amazing,' which is an emotional reaction."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S6",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the response of others to the music, indicating some people 'didn't really like the music,' which is an appraisal of taste or preference."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S7",
+    "label": "affect",
+    "reasoning": "The sentence expresses relief and satisfaction ('It's OK... we started touring, and we came out with a record'), which are affective states."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S8",
+    "label": "affect",
+    "reasoning": "The sentence describes the payout as 'amazing' and the lack of respect for uploading videos as a negative feeling, both of which are affective."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S9",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the improvement in video quality and financial success, which is an appraisal of progress and achievement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S11",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the situation of making money as a creative person as 'super weird,' which is an appraisal."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S12",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the business models as unstable ('changing all the time')."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S13",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the change in income as a negative development."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S15",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the increase in competition for brand deals as a challenge."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S16",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the creative work as 'contributing value to the world' and notes the lack of income, which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S18",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the online art-to-money system as 'totally nonfunctional,' which is a negative evaluation."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S22",
+    "label": "appraisal",
+    "reasoning": "The sentence questions the sufficiency of success, which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S23",
+    "label": "affect",
+    "reasoning": "The sentence expresses confusion ('I don't understand'), which is an affective state."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S24",
+    "label": "appraisal",
+    "reasoning": "The sentence questions the adequacy of current systems, which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S26",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the last 100 years as 'weird,' which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S30",
+    "label": "affect",
+    "reasoning": "The sentence describes the innovation as 'amazing,' which is an emotional reaction."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S32",
+    "label": "affect",
+    "reasoning": "The sentence describes the ability to store performances as 'amazing,' which is an emotional reaction."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S33",
+    "label": "affect",
+    "reasoning": "The sentence emphasizes how 'amazing' the development was, which is an affective response."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S35",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the scale of industry devoted to solving two problems, which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S36",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the extent of industry involvement as significant, which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S39",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the current system as 'totally broken for creative people,' which is a negative evaluation."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S40",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the monetization process as not working, which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S41",
+    "label": "affect",
+    "reasoning": "The sentence expresses excitement ('super excited') about being a creator, which is an emotional state."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S43",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the current period as one of 'trial and error,' 'good ideas,' and 'experimentation,' which are evaluative statements."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S54",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the platform as making it 'really easy' for creators to get paid, which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S60",
+    "label": "ambiguous",
+    "reasoning": "The sentence is a directive ('check yourselves') and does not clearly express affect, judgement, or appraisal."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S61",
+    "label": "judgement",
+    "reasoning": "The sentence discusses how people categorize online content as 'not as legitimate,' which is a social judgement about legitimacy."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S77",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the current environment as one of 'ideas and experiments and progress,' which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S78",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the system as 'working,' which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S79",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the system as 'not perfect yet, but really working,' which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S80",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the profession as viable and describes the process of creators getting paid, which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S81",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the future infrastructure as 'different' and highlights the value of direct connection, which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S83",
+    "label": "affect",
+    "reasoning": "The sentence describes things as 'really cranking,' which expresses satisfaction and excitement, an affective state."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S87",
+    "label": "affect",
+    "reasoning": "The sentence describes an earnest, nice gesture and hope, which are affective states."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S90",
+    "label": "affect",
+    "reasoning": "The sentence expresses the feeling of 'cringe,' which is an emotional reaction."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S91",
+    "label": "affect",
+    "reasoning": "The sentence expresses embarrassment and not feeling valued, which are affective states."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S92",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises a cultural shift as positive progress, which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S93",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the act of leaving a culture as a positive change, which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S94",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the future as one where being a creator is a legitimate option, which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S97",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the profession as 'viable and sustainable and respected,' which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S98",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the new system as 'awesome,' which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S99",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises creators as being 'paid' and 'valued,' which are evaluative statements."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S101",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the outcome as having gone 'pretty well,' which is an evaluative statement."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S102",
+    "label": "appraisal",
+    "reasoning": "The sentence encourages artists not to give up and appraises the progress as positive ('we're getting there')."
+  },
+  {
+    "text_id": "Ent8.",
+    "sentence_id": "S103",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the future as promising for creators to make a living online, which is an evaluative statement."
+  }
+]
