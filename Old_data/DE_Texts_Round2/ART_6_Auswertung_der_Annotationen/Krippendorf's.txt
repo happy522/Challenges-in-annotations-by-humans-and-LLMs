@@ -1,5 +1,0 @@
-
-Cohen's Kappa for Evaluative: 0.398
-Cohen's Kappa for Affect: 0.231
-Cohen's Kappa for Judgement: 0.080
-Cohen's Kappa for Appreciation: 0.336

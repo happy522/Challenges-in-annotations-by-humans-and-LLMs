@@ -1,3 +1,0 @@
-Krippendorff's Alpha for Affect: 0.250
-Krippendorff's Alpha for Judgement: 0.047
-Krippendorff's Alpha for Appreciation: 0.212
