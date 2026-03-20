@@ -1,0 +1,278 @@
+[
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S1",
+    "label": "affect",
+    "reasoning": "The sentence expresses a personal emotional or physical state ('an affliction I suffer from')."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S2",
+    "label": "affect",
+    "reasoning": "The phrase 'funny feeling' indicates an emotional or bodily sensation."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S5",
+    "label": "affect",
+    "reasoning": "The sentence expresses a desire and emotional state ('desperately need to wake me up')."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S6",
+    "label": "affect",
+    "reasoning": "The speaker states a personal experience of suffering, indicating an emotional or physical state."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S7",
+    "label": "affect",
+    "reasoning": "The sentence refers to others experiencing a condition, implying shared emotional or physical states."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S9",
+    "label": "affect",
+    "reasoning": "The sentence discusses the experience of suffering from something, indicating emotional or physical states."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S10",
+    "label": "affect",
+    "reasoning": "The sentence asks about feeling guilt, which is an emotional state."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S11",
+    "label": "judgement",
+    "reasoning": "The speaker evaluates the quality of paintings and the decision behind their placement, reflecting social evaluation."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S13",
+    "label": "affect",
+    "reasoning": "The sentence expresses an emotional state of unhappiness."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S14",
+    "label": "affect",
+    "reasoning": "The sentence expresses feelings of guilt and unhappiness, emotional states."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S15",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the experience of leaving a gallery as 'not a good experience,' which is an evaluative judgment about a situation."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S22",
+    "label": "appraisal",
+    "reasoning": "The sentence makes a general evaluative statement ('It's expected'), indicating appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S28",
+    "label": "affect",
+    "reasoning": "The sentence describes a personal feeling of being pulled like a magnet, indicating an emotional or bodily sensation."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S34",
+    "label": "appraisal",
+    "reasoning": "The sentence makes a general evaluative statement about human nature and DNA, which is an appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S35",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the purpose of storytelling as a way to make sense of the world, an appraisal of behavior."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S38",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates certain paintings as significant enough to stop and tell stories about, indicating appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S40",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates a painting as 'the most glorious,' a clear positive appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S41",
+    "label": "affect",
+    "reasoning": "The sentence expresses a personal emotional attachment to the painting."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S43",
+    "label": "affect",
+    "reasoning": "The sentence expresses ongoing emotional enjoyment ('never tire of looking at her')."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S44",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the painting's colors and light as 'gorgeous,' an aesthetic appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S45",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the expression on the face as 'conflicted,' an interpretive appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S46",
+    "label": "affect",
+    "reasoning": "The sentence expresses the speaker's changing emotional interpretation of the painting's expression."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S49",
+    "label": "appraisal",
+    "reasoning": "The sentence interprets the expression as reflecting feelings, an evaluative interpretation."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S56",
+    "label": "affect",
+    "reasoning": "The exclamation 'Yippee!' expresses a positive emotional reaction."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S63",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the nature of a look as 'intimate' but not typical, an appraisal of behavior."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S65",
+    "label": "judgement",
+    "reasoning": "The sentence judges the appropriateness of a painting style as 'inappropriate,' a social evaluation."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S68",
+    "label": "appraisal",
+    "reasoning": "The phrase 'a lovely servant' is an evaluative description of a person."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S73",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the household as 'chaotic, noisy,' an appraisal of environment."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S74",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates Vermeer's paintings as 'incredibly calm and quiet,' an aesthetic appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S83",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the clothing as 'very plain,' an appraisal of appearance."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S85",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the clothing and jewelry, noting the pearl earring as the only non-plain item."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S86",
+    "label": "judgement",
+    "reasoning": "The sentence judges the likelihood of a servant affording pearl earrings, a social evaluation."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S98",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the subject as 'gorgeous,' an aesthetic appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S99",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the subject's feelings as 'obviously loves him,' an interpretive appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S100",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the subject as 'conflicted,' an interpretive appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S107",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates a version as 'just right,' an aesthetic appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S109",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the subject as 'absolutely balanced between innocence and experience,' an aesthetic appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S111",
+    "label": "appraisal",
+    "reasoning": "The sentence compares a painting to a Vermeer painting, implying an evaluative judgment."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S116",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the subject's focus as a 'seductive element,' an aesthetic appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S117",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the painting as a 'masterpiece' due to lack of resolution, an aesthetic appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S133",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the usefulness of a painting without biography as 'useless,' an evaluative judgment."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S135",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the painting as an 'orphan' and notes its storage, implying a negative appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S138",
+    "label": "affect",
+    "reasoning": "The sentence states 'He's not happy,' indicating an emotional state."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S144",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the doublet as 'absolutely gorgeous,' an aesthetic appraisal."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S163",
+    "label": "affect",
+    "reasoning": "The sentence describes a personal physical and emotional reaction (flushing), indicating affect."
+  },
+  {
+    "a_Text_ID": "Ent5.",
+    "a_Sentence_ID": "S167",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the ability to make the word 'tender,' an appraisal of expression."
+  }
+]

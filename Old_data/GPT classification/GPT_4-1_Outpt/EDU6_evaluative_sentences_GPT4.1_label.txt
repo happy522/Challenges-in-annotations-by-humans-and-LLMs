@@ -1,0 +1,501 @@
+[
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S1",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the situation of boys as a 'serious problem,' which is an assessment of the situation rather than an emotion or judgement of character."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S2",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the effectiveness of boys' culture in schools and discusses overcoming a problem, which is an assessment of a situation."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S3",
+"label": "appraisal",
+"reasoning": "The sentence refers to stereotypes and generalizations, which is an assessment of social perceptions, not an emotion or judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S5",
+"label": "affect",
+"reasoning": "The speaker expresses a personal lack of interest, which is an emotional state."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S6",
+"label": "appraisal",
+"reasoning": "The sentence assesses the types of boys and girls, which is an evaluation of categories, not an emotion or judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S7",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the diversity of gender expression, which is an assessment of a social situation."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S8",
+"label": "appraisal",
+"reasoning": "The sentence makes a generalization about boys and girls, which is an assessment of tendencies."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S9",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the effectiveness of boys' culture in schools, which is an assessment of a situation."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S11",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the statistics as 'really nice,' which is an assessment of information."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S20",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the ongoing need for support for women and girls, which is an assessment of a social situation."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S23",
+"label": "judgement",
+"reasoning": "The sentence expresses a moral or normative stance ('we should'), which is a judgement about what is right."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S24",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the initiatives and programs as 'fantastic,' which is an assessment of their quality."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S25",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the positive impact of programs and suggests extending them, which is an assessment of actions."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S26",
+"label": "appraisal",
+"reasoning": "The sentence assesses the existence of a problem in older years, which is an evaluation of a situation."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S28",
+"label": "affect",
+"reasoning": "The sentence describes university administrators as 'a little uncomfortable,' which is an emotional state."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S29",
+"label": "affect",
+"reasoning": "The sentence describes university administrators as 'very nervous,' which is an emotional state."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S31",
+"label": "affect",
+"reasoning": "The interjection 'Ugh' expresses a negative emotional reaction."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S32",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the impact of boys' activities on academic achievement, which is an assessment of behavior."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S34",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the cause of a problem, which is an assessment of a situation."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S35",
+"label": "appraisal",
+"reasoning": "The sentence evaluates video games as a symptom, which is an assessment of their role."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S36",
+"label": "appraisal",
+"reasoning": "The sentence assesses the timing of boys being 'turned off,' which is an evaluation of a process."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S42",
+"label": "affect",
+"reasoning": "The sentence refers to fear ('afraid'), which is an emotional state."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S52",
+"label": "affect",
+"reasoning": "The boy expresses 'I hate writing,' which is a direct statement of emotion."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S56",
+"label": "affect",
+"reasoning": "The boy expresses a lack of desire ('I don't want to write that stuff'), which is an emotional state."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S57",
+"label": "affect",
+"reasoning": "The boy expresses a desire ('I want to write about video games'), which is an emotional state."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S58",
+"label": "affect",
+"reasoning": "The boy expresses a desire ('I want to write about leveling-up'), which is an emotional state."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S59",
+"label": "affect",
+"reasoning": "The boy expresses interest ('this really interesting world'), which is an emotional state."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S60",
+"label": "affect",
+"reasoning": "The boy expresses a desire to write about an exciting event, which is an emotional state."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S62",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the seriousness of a teacher's response, which is an assessment of behavior."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S63",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the boy's behavior as normal for a boy, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S64",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the boy's behavior as typical, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S65",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative stance ('It's not OK'), which is a judgement about what is acceptable."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S67",
+"label": "appraisal",
+"reasoning": "The sentence describes zero tolerance policies and their implementation, which is an assessment of a system."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S73",
+"label": "appraisal",
+"reasoning": "The sentence evaluates women as 'great,' which is an assessment of a group."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S74",
+"label": "appraisal",
+"reasoning": "The sentence assesses the lack of male role models and the classroom environment, which is an evaluation of a situation."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S75",
+"label": "affect",
+"reasoning": "The sentence expresses a feeling of not belonging, which is an emotional state."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S76",
+"label": "appraisal",
+"reasoning": "The sentence assesses the classroom as a place for girls, which is an evaluation of a situation."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S77",
+"label": "affect",
+"reasoning": "The sentence expresses feelings of inadequacy and not belonging, which are emotional states."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S78",
+"label": "appraisal",
+"reasoning": "The sentence assesses the environment as unwelcoming to men, which is an evaluation."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S79",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the directness of the situation, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S80",
+"label": "appraisal",
+"reasoning": "The sentence assesses the lack of male presence and the nature of conversations, which is an evaluation."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S87",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the change in kindergarten, which is an assessment of educational standards."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S88",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the curriculum as being compressed, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S89",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative stance about developmental expectations, which is a judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S90",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative expectation about reading ability, which is a judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S91",
+"label": "appraisal",
+"reasoning": "The sentence assesses the likely outcome for students who do not meet expectations, which is an evaluation."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S93",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the message boys are receiving, which is an assessment of a social situation."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S96",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the curriculum as 'bad for all active kids,' which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S100",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the situation as a 'very serious problem,' which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S106",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the impact on children as 'really not healthy,' which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S107",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the curriculum as 'not developmentally appropriate' and 'particularly bad for boys,' which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S109",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative stance about what 'we need to do,' which is a judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S110",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative stance about what 'we need to do,' which is a judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S111",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative stance about changing mindsets, which is a judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S112",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the possibility of specific actions, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S113",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative stance about what 'we can do,' which is a judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S114",
+"label": "appraisal",
+"reasoning": "The sentence evaluates educational games as 'really flashcards,' which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S115",
+"label": "appraisal",
+"reasoning": "The sentence evaluates educational games as 'glorified drill and practice,' which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S116",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the lack of depth and narrative in educational games, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S117",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative stance about what 'we need to do,' which is a judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S118",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative stance about what 'we need to do,' which is a judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S119",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative stance about what 'we need to do,' which is a judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S120",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative stance about what 'we need to do,' which is a judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S122",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative stance about what 'we need to do,' which is a judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S123",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative stance about what conversations 'need to be happening,' which is a judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S124",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the existence of 'great examples,' which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S125",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the video gaming school as 'wonderful,' which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S126",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the scalability of the solution, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S127",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the need to change culture and feelings, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S128",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative stance about what 'we need to do,' which is a judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S129",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the quality and cost of good games, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S130",
+"label": "appraisal",
+"reasoning": "The sentence evaluates educational games as lacking in budget, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S132",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the way teachers talk about gaming as 'demeaning,' which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S134",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the frequency of conversations, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S135",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the content of conversations, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S136",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the frequency of conversations, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S137",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the acceptability of certain statements, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S139",
+"label": "affect",
+"reasoning": "The sentence describes the feeling of being 'very uncomfortable,' which is an emotional state."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S140",
+"label": "affect",
+"reasoning": "The sentence describes people as 'nervous,' which is an emotional state."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S141",
+"label": "appraisal",
+"reasoning": "The sentence evaluates the certainty of parents' and administrators' acceptance, which is an assessment."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S142",
+"label": "judgement",
+"reasoning": "The sentence expresses a normative stance about what 'we need to do,' which is a judgement."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S143",
+"label": "affect",
+"reasoning": "The sentence expresses a feeling of exclusion ('it wasn't for me'), which is an emotional state."
+},
+{
+"a_Text_ID": "Edu6.",
+"a_Sentence_ID": "S145",
+"label": "affect",
+"reasoning": "The sentence expresses a positive feeling of self-worth ('I'm smart'), which is an emotional state."
+}
+]
+

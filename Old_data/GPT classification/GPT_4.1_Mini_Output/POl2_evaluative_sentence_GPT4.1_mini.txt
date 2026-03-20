@@ -1,0 +1,500 @@
+[
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S1",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the state of democracy as being in trouble, which is an assessment of a situation."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S2",
+    "label": "appraisal",
+    "reasoning": "This sentence assesses the relevance of democracy to current global issues, indicating an evaluative stance."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S3",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates political institutions as outdated and mismatched to current problems."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S4",
+    "label": "appraisal",
+    "reasoning": "This is a comparative evaluation of the temporal mismatch between problems and institutions."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S5",
+    "label": "appraisal",
+    "reasoning": "The sentence identifies a central problem in democracy, which is an evaluative statement."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S6",
+    "label": "ambiguous",
+    "reasoning": "The sentence expresses contemplation about a dilemma but does not clearly express affect, judgement, or appraisal."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S7",
+    "label": "appraisal",
+    "reasoning": "The sentence suggests a change in discourse, implying an evaluative stance on current topics."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S8",
+    "label": "appraisal",
+    "reasoning": "This sentence evaluates cities as the origin of civilization and culture, an appraisal of their importance."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S10",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises public spaces as venues for democracy and protest."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S11",
+    "label": "appraisal",
+    "reasoning": "Listing famous public spaces highlights their significance, an evaluative act."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S12",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises public spaces as places of citizen participation and narrative control."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S13",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates cities as enduring institutions."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S14",
+    "label": "appraisal",
+    "reasoning": "This is an evaluative statement about the historical precedence of Constantinople/Istanbul."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S15",
+    "label": "appraisal",
+    "reasoning": "Similar to S14, it evaluates Alexandria's age relative to Egypt."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S16",
+    "label": "appraisal",
+    "reasoning": "Evaluates Rome's historical precedence over Italy."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S18",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises cities as comprehensive life spaces."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S19",
+    "label": "affect",
+    "reasoning": "The word 'home' expresses an emotional connection and feeling of belonging."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S21",
+    "label": "judgement",
+    "reasoning": "The sentence critiques political engagement and governance, evaluating behavior and social norms."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S22",
+    "label": "appraisal",
+    "reasoning": "This sentence contrasts political engagement in cities versus nation-states, an evaluative statement."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S26",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates cities as the center of activity."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S27",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises cities as representative of people."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S28",
+    "label": "judgement",
+    "reasoning": "This is a judgement about human nature as political animals."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S29",
+    "label": "judgement",
+    "reasoning": "The sentence offers a judgement redefining human nature as urban animals."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S31",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates nation-states as old-fashioned and suggests mayors as a solution."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S32",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the current influence of mayors."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S33",
+    "label": "appraisal",
+    "reasoning": "This sentence evaluates the cooperation of cities on global issues."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S34",
+    "label": "ambiguous",
+    "reasoning": "The sentence is incomplete and does not express clear affect, judgement, or appraisal."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S36",
+    "label": "ambiguous",
+    "reasoning": "The sentence is a transitional phrase without clear evaluative or emotional content."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S38",
+    "label": "ambiguous",
+    "reasoning": "The sentence fragment does not provide enough context for classification."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S40",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates mayors as the locus of action."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S43",
+    "label": "judgement",
+    "reasoning": "The sentence judges the requirements and nature of political leaders."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S44",
+    "label": "judgement",
+    "reasoning": "The sentence judges the electability of independents."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S45",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises mayors as different from other politicians."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S46",
+    "label": "judgement",
+    "reasoning": "The sentence judges mayors as pragmatists and problem-solvers."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S47",
+    "label": "judgement",
+    "reasoning": "The sentence judges the accountability of mayors."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S50",
+    "label": "appraisal",
+    "reasoning": "The sentence lists practical tasks mayors must accomplish, implying an evaluative context."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S51",
+    "label": "judgement",
+    "reasoning": "The sentence judges pragmatism as essential for achieving outcomes."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S52",
+    "label": "appraisal",
+    "reasoning": "The sentence contrasts pragmatism of city mayors with world capitals, an evaluative statement."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S56",
+    "label": "judgement",
+    "reasoning": "The sentence recounts a judgement by Kollek emphasizing practical action over rhetoric."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S57",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the role of mayors as practical fixers."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S58",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises mayors' practical responsibilities."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S59",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the non-partisan nature of mayoral tasks."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S61",
+    "label": "ambiguous",
+    "reasoning": "The sentence is vague and does not clearly express affect, judgement, or appraisal."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S64",
+    "label": "judgement",
+    "reasoning": "The sentence judges a person's political orientation and behavior."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S65",
+    "label": "judgement",
+    "reasoning": "The sentence judges Bloomberg's political affiliations and attitude toward party labels."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S67",
+    "label": "judgement",
+    "reasoning": "The sentence judges mayors as pragmatists and problem-solvers."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S68",
+    "label": "judgement",
+    "reasoning": "The sentence judges mayors as effective actors."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S72",
+    "label": "ambiguous",
+    "reasoning": "The sentence fragment 'They're known' lacks context to determine appraisal or judgement."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S75",
+    "label": "judgement",
+    "reasoning": "The sentence implies a judgement about someone's likely reaction."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S80",
+    "label": "judgement",
+    "reasoning": "The sentence judges the difficulty of being a mayor as a non-local."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S81",
+    "label": "judgement",
+    "reasoning": "The sentence judges the feasibility of running for Senate versus mayor."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S82",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the higher trust level of local officials compared to national ones."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S85",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the popularity ratings of the presidency."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S86",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the decline in trust for the Supreme Court."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S87",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the higher trust in local officials and gives examples."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S89",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises cities as multicultural, open, and democratic."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S94",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates cities as not self-centered."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S98",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the cooperation of mayors versus nations on climate change."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S99",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises ongoing collaboration among cities."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S100",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates cities' role in carbon emissions and potential to solve the problem."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S101",
+    "label": "appraisal",
+    "reasoning": "The sentence affirms that cities are actively addressing issues."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S103",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises New York's program to improve building efficiency."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S104",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the impact of the program positively."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S106",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the positive effects of transportation improvements."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S107",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises Singapore's urban development and green spaces."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S108",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises cities' collective efforts."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S109",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises cities working together."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S110",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the sharing of best practices among cities."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S113",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises specific urban policies as effective even when nations fail."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S115",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the current political world as divided and uncooperative."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S116",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the reality of a borderless world in various domains."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S117",
+    "label": "appraisal",
+    "reasoning": "The sentence evaluates the risk to democracy if globalization is not democratized."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S120",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the ineffectiveness of states in achieving global democracy."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S123",
+    "label": "appraisal",
+    "reasoning": "The sentence expresses a positive belief about the rebirth of democracy."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S124",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the potential to rediscover democracy globally."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S127",
+    "label": "ambiguous",
+    "reasoning": "The sentence is a brief statement without clear evaluative or emotional content."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S128",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the presence of the idea in various city halls."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S129",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises the idea of a global parliament of mayors positively."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S130",
+    "label": "appraisal",
+    "reasoning": "The sentence appraises TED citizens as potential borderless citizens."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S131",
+    "label": "affect",
+    "reasoning": "The sentence expresses readiness and commitment, indicating an emotional stance."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S132",
+    "label": "affect",
+    "reasoning": "The sentence poses a direct emotional challenge or invitation."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S133",
+    "label": "affect",
+    "reasoning": "The sentence expresses gratitude and solidarity, an emotional expression."
+  },
+  {
+    "a_Text_ID": "Pol2.",
+    "a_Sentence_ID": "S134",
+    "label": "affect",
+    "reasoning": "The sentence expresses gratitude."
+  }
+]

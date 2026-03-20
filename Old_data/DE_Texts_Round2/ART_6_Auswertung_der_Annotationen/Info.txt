@@ -1,0 +1,13 @@
+The table contains two things:
+
+  - Rows/ Sentences where annotators agree in ALL specified columns_to_check
+    - Rows/ Sentences where annotators disagree in ANY of those columns
+    
+    
+    Using this, you can check where the disagreement was. 
+    Maybe there is a pattern throughout all disciplines that shows us what annotators disagreed on.
+    
+    
+    
+Preprocessing:
+We had to delete line  88 (ofc in both datasets because there was a mistake in one of annotations)

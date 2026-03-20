@@ -1,0 +1,308 @@
+[
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S2",
+    "label": "ambiguous",
+    "reasoning": "The sentence is a neutral statement about the existence of questions, without clear emotional or evaluative content."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S4",
+    "label": "ambiguous",
+    "reasoning": "This is a direct question posed to someone, lacking explicit affect, judgement, or appraisal."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S5",
+    "label": "ambiguous",
+    "reasoning": "Another direct question without evaluative or emotional content."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S6",
+    "label": "affect",
+    "reasoning": "The phrase 'I love this one' expresses a positive emotional reaction."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S8",
+    "label": "ambiguous",
+    "reasoning": "A simple question without clear emotional or evaluative content."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S12",
+    "label": "judgement",
+    "reasoning": "The sentence evaluates the nature of a question as 'ill-posed' and states a fact about science, reflecting an evaluative judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S21",
+    "label": "ambiguous",
+    "reasoning": "This is a report of a question asked, without explicit affect, judgement, or appraisal."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S23",
+    "label": "ambiguous",
+    "reasoning": "A factual statement about an organization conducting a survey, no evaluative or emotional content."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S25",
+    "label": "ambiguous",
+    "reasoning": "Describes survey results without explicit evaluation or emotion."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S26",
+    "label": "ambiguous",
+    "reasoning": "A question about process or cause, no clear affect or judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S27",
+    "label": "ambiguous",
+    "reasoning": "Repetition of previous question, still neutral."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S28",
+    "label": "ambiguous",
+    "reasoning": "Statement of fact about a gap in opinion, no explicit evaluation or emotion."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S29",
+    "label": "ambiguous",
+    "reasoning": "Statement about personal relevance, no clear affect or judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S32",
+    "label": "ambiguous",
+    "reasoning": "Repeated question, neutral."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S34",
+    "label": "affect",
+    "reasoning": "Expresses personal interest and thoughtfulness, indicating an emotional engagement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S39",
+    "label": "judgement",
+    "reasoning": "Evaluates terms as 'big, fancy, academic' which is an evaluative judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S44",
+    "label": "judgement",
+    "reasoning": "Evaluates the audience as 'probably all a little bit guilty,' a social judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S49",
+    "label": "ambiguous",
+    "reasoning": "Statement about frequency of receiving a tweet, no clear affect or judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S50",
+    "label": "affect",
+    "reasoning": "Expresses amusement and positive emotional reaction to the tweet."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S51",
+    "label": "judgement",
+    "reasoning": "Evaluates the tweet as 'fundamentally scientifically flawed,' a negative judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S59",
+    "label": "judgement",
+    "reasoning": "Describes a psychological condition and people's cognitive bias, an evaluative judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S60",
+    "label": "judgement",
+    "reasoning": "Evaluates people's knowledge as overestimated, a judgement about cognition."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S61",
+    "label": "judgement",
+    "reasoning": "Evaluates people's underestimation of ignorance, a judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S63",
+    "label": "ambiguous",
+    "reasoning": "States that cognitive dissonance is interesting, which could be affect or appraisal but is vague."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S65",
+    "label": "affect",
+    "reasoning": "Expresses a humorous or ironic emotional reaction to a situation."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S68",
+    "label": "ambiguous",
+    "reasoning": "Factual statement about familiarity with a publication, no clear affect or judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S69",
+    "label": "judgement",
+    "reasoning": "Evaluates the accuracy of the Farmer's Almanac as low, a negative judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S70",
+    "label": "appraisal",
+    "reasoning": "Evaluates the current era of science as capable of forecasting weather, a positive appraisal of capability."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S71",
+    "label": "appraisal",
+    "reasoning": "Evaluates weather forecasts as about 90% accurate, a positive appraisal of reliability."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S72",
+    "label": "judgement",
+    "reasoning": "Evaluates people's memory bias about weather forecast misses, a judgement about perception."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S74",
+    "label": "judgement",
+    "reasoning": "Evaluates people's biases and perceptions about science, a social judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S78",
+    "label": "ambiguous",
+    "reasoning": "Statement about dealing with something on social media, no clear affect or judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S79",
+    "label": "ambiguous",
+    "reasoning": "Describes a tweet about a forecast, no explicit affect or judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S81",
+    "label": "ambiguous",
+    "reasoning": "Factual statement about source of forecast, no affect or judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S83",
+    "label": "ambiguous",
+    "reasoning": "Statement about seeing interesting things, vague affect or appraisal."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S89",
+    "label": "affect",
+    "reasoning": "Expresses fascination, a positive emotional state."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S90",
+    "label": "affect",
+    "reasoning": "Self-description as a 'weather geek' implies positive emotional engagement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S92",
+    "label": "appraisal",
+    "reasoning": "Evaluates scientific understanding as sufficient to counter perceptions and biases."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S98",
+    "label": "affect",
+    "reasoning": "Reports people's surprise and lack of awareness, indicating emotional reaction."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S101",
+    "label": "judgement",
+    "reasoning": "Evaluates human difficulty in perceiving beyond experience, a judgement about cognition."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S106",
+    "label": "appraisal",
+    "reasoning": "Evaluates an event as an anomaly, outside normal expectations."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S114",
+    "label": "ambiguous",
+    "reasoning": "Fragmentary statement about quantity, no clear affect or judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S116",
+    "label": "judgement",
+    "reasoning": "Evaluates public perception of weather warnings as a downgrade, a judgement about misunderstanding."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S117",
+    "label": "judgement",
+    "reasoning": "Evaluates perception as incorrect, clarifying actual situation, a judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S118",
+    "label": "appraisal",
+    "reasoning": "Evaluates worsening conditions as models update, an appraisal of situation."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S132",
+    "label": "judgement",
+    "reasoning": "Encourages speaking out, implying a positive social judgement about action."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S139",
+    "label": "affect",
+    "reasoning": "Expresses personal admission of bias and mistake, indicating emotional self-awareness."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S142",
+    "label": "affect",
+    "reasoning": "Expresses honesty and self-reflection, emotional states."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S144",
+    "label": "judgement",
+    "reasoning": "Evaluates the responsibility of denying climate change as irresponsible, a moral judgement."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S146",
+    "label": "appraisal",
+    "reasoning": "Appraises the importance of expanding concern as preserving life, a positive appraisal of action."
+  },
+  {
+    "a_Text_ID": "Sci10.",
+    "a_Sentence_ID": "S149",
+    "label": "affect",
+    "reasoning": "Expresses gratitude, an emotional state."
+  }
+]
