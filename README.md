@@ -139,5 +139,3 @@ Key high‑level findings from the paper:
 
 ***
 
-
-If you tell me your actual folder and script names (or paste your current repo tree), I can tailor this README to match exactly.
