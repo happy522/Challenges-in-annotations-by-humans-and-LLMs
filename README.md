@@ -3,6 +3,8 @@
 This repository contains the code, experimental setup, and supporting materials for the paper:
 
 **"Challenges in annotations by humans and LLMs: A case study of evaluative language"**
+M. Imamovic, A. Knierim, K. Pitroda, E. Lapshinova‑Koltunski
+
 
 ---
 
