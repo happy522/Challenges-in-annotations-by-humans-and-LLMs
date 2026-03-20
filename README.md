@@ -1,141 +1,223 @@
 # Challenges in Annotations by Humans and LLMs
 
-This repository contains code, data, and experimental artifacts for the paper:
+This repository contains the code, experimental setup, and supporting materials for the paper:
 
-> **Challenges in annotations by humans and LLMs: A case study of evaluative language** 
-> M. Imamovic, A. Knierim, K. Pitroda, E. Lapshinova‑Koltunski
+**"Challenges in annotations by humans and LLMs: A case study of evaluative language"**
+M. Imamovic, A. Knierim, K. Pitroda, E. Lapshinova‑Koltunski
 
-The project compares annotations produced by linguists in training, an expert linguist, and large language models (LLMs) on complex evaluative language phenomena in English TED talks, using Appraisal theory as the linguistic framework. 
 
-***
+---
 
-## Overview
+## 📌 Overview
 
-We study evaluative language (stance/opinion) in spoken popular science discourse (TED talks), focusing on the **Attitude** subsystem of Appraisal theory with three main classes:
-- Affect (feelings and emotions)  
-- Judgement (evaluations of people’s behaviour)  
-- Appreciation (evaluations of things, processes, or states)
+This project investigates how **human annotators** and **large language models (LLMs)** perform on a **complex linguistic annotation task**: identifying and classifying *evaluative language* using **Appraisal Theory**.
 
-The repository supports:
+We compare:
 
-- Human annotation experiments on TED talk transcripts  
-- LLM‑based Appraisal classification with different prompting strategies  
-- Quantitative evaluation (agreement measures, F1‑scores) and qualitative error analysis
-***
+* Linguists in training
+* A trained linguist (gold standard)
+* Multiple LLMs (Qwen, Llama, Mistral)
 
-## Research Questions
+The study focuses on:
 
-The underlying study addresses: 
+* Detecting whether a sentence is **evaluative** or not.
+* Classifying it into **Appraisal categories**:
 
-1. Which Attitude categories are challenging for human annotators, and why?  
-2. Do LLMs meet expectations for complex annotation task resolution in Appraisal theory?  
-3. Do humans and LLMs struggle with the same issues when annotating evaluative language?
+  * Affect (emotions)
+  * Judgement (ethics/behavior)
+  * Appreciation (aesthetics/quality)
 
-The best model setup in the paper reaches an F1‑score of 0.77 for Attitude classification on the TED talk corpus. 
-***
+---
 
-## Repository Structure
+## 🎯 Research Questions
 
-```text
-.
-├── data/
+1. Which Appraisal categories are most challenging for human annotators?
+2. Can LLMs handle complex annotation tasks effectively?
+3. Do humans and LLMs struggle with the same issues?
+
+---
+
+## 📊 Key Results
+
+* **Binary classification (evaluative vs non-evaluative)**:
+
+  * LLMs achieve solid performance (~F1 ≈ 0.68–0.70)
+* **Multiclass classification (Appraisal categories)**:
+
+  * Performance drops significantly (macro F1 ≈ 0.30–0.52)
+* **LLMs vs Humans**:
+
+  * LLMs outperform **non-expert annotators**
+  * Performance is comparable to a **trained linguist**
+* **Hardest category**:
+
+  * **Judgement** (for both humans and models)
+
+---
+
+## 📂 Repository Structure
+
+```
+├── classified data/
 │   ├── raw/                 # Original TED talk transcripts
-│   ├── processed/           # Preprocessed sentence-level data
-│   ├── annotations_humans/  # Annotations by students and expert linguist
-│   └── annotations_llms/    # Model-generated labels
-├── prompts/
-│   ├── zero_shot.txt
-│   ├── few_shot.txt
-│   └── chain_of_thought.txt
-├── src/
-│   ├── preprocessing.py
-│   ├── run_llm_annotation.py
-│   ├── evaluation.py
-│   └── analysis/
-│       ├── agreement_analysis.py
-│       └── error_analysis.py
+│   ├── student data/        # annotations by students
+│   └── llm data/            # Model-generated labels
+├── experiments/
+│   ├── fine tuning/      # scripts for fine tuning the model
+│   ├── results script/   # scripts for results generation
+│   ├── Binary_Multiclass_classification.ipynb    # classification script for LLMs with best prompt
+│   └── Data_Generation_for_LLMs.ipynb            # data generation for LLMs
+├── prompt analysis/
+│   ├── prompts/          # 3 versions of prompt
+│   └── analysis/         # analysis of prompts
 ├── results/
-│   ├── metrics/
-│   └── figures/
-├── LICENSE
+│   ├── llm/              # LLM results
+│   └── student/          # student restuls
 └── README.md
 ```
-***
 
-## Setup
+---
 
-1. Clone the repository: [github](https://github.com/happy522)
-   ```bash
-   git clone https://github.com/happy522/Challenges-in-annotations-by-humans-and-LLMs.git
-   cd Challenges-in-annotations-by-humans-and-LLMs
-   ```
+## 🧠 Methodology
 
-2. Create and activate an environment (example with `conda`):  
-   ```bash
-   conda create -n appraisal-llms python=3.10
-   conda activate appraisal-llms
-   ```
+### 1. Human Annotation
 
-3. Install dependencies (replace with your actual file):  
-   ```bash
-   pip install -r requirements.txt
-   ```
+* Dataset: TED Talk transcripts (EmotionalizTED corpus)
+* Annotation level: **sentence-level**
+* Annotators:
 
-***
+  * 24 linguists in training
+  * 1 senior researcher (gold standard)
+* Metrics:
 
-## Data
+  * Cohen’s Kappa
+  * Krippendorff’s Alpha
 
-- **Source**: English TED talk transcripts from eleven domains (spoken popular science / specialised communication).
-- **Unit of analysis**: Sentence-level, with one or more evaluative items per sentence; explicit and implicit evaluations are included.
-- **Labels**: Attitude classes (Affect, Judgement, Appreciation), plus polarity (positive/negative).
+* Two-step pipeline:
 
-***
+  1. Binary classification (evaluative vs non-evaluative)
+  2. Multiclass classification (Appraisal categories)
 
-## Human Annotation
+### 2. LLM Annotation
 
-The repository can include:
- 
-- Annotation files from:
-  - Linguists in training (students)  
-  - An expert linguist (gold standard)
-    
-The study highlights typical challenges:
+* Models used:
 
-- Deciding the span of evaluative expressions  
-- Distinguishing Judgement vs. Appreciation  
-- Handling implicit vs. explicit Attitude and context dependence 
-Agreement metrics such as Cohen’s kappa and F1 are used to quantify inter‑annotator reliability. 
+  * Qwen3_30b_a3b_instruct_2507
+  * Llama_3_3_70b_instruct
+  * Mistral_large_instruct
+  * 
+* Two-step pipeline:
 
-***
+  1. Binary classification (evaluative vs non-evaluative)
+  2. Multiclass classification (Appraisal categories)
 
-## LLM Annotation
+### 3. Prompt Engineering
 
-We experiment with several LLMs and prompting strategies for automatic Appraisal classification: 
-- Prompt families: zero‑shot, few‑shot, and more structured prompts  
-- Models: three different LLMs (qwen3_30b_a3b_instruct_2507, llama_3_3_70b_instruct, mistral_large_instruct)
+Three prompt strategies were tested:
 
-The pipeline typically consists of:
+* Chain-of-thought few-shot
+* Zero-shot
+* Structured few-shot (best performing)
 
-1. Preparing sentence‑level input files  
-2. Generating predictions with each prompt/model  
-3. Comparing LLM labels against the expert gold standard  
-4. Computing overall scores and per‑class performance
+### 4. Fine-tuning
 
-The best‑performing setup achieves an F1‑score of 0.77 and aligns most closely with the expert linguist, while students show lower agreement.
+* Method: **QLoRA (4-bit quantization)**
+* Result:
 
-***
+  * Improved **binary detection**
+  * Worse **fine-grained classification**
+
+---
+
+## ⚠️ Key Challenges
+
+### Human Annotation
+
+* Low inter-annotator agreement (high subjectivity)
+* Confusion between:
+
+  * Judgement vs Appreciation
+* Difficulty with:
+
+  * Implicit meanings
+  * Target of evaluation
+  * Long sentences
+
+### LLMs
+
+* Bias toward predicting **Affect**
+* Low recall for **Judgement**
+* Sensitive to prompt design
+* Struggle with multi-label classification
+
+---
+
+## 🔍 Results:
+<img width="775" height="272" alt="image" src="https://github.com/user-attachments/assets/a11c39d5-a7a9-48ab-b6c2-216294959cb9" />
+<img width="770" height="302" alt="image" src="https://github.com/user-attachments/assets/64d64e5f-3535-45c1-ad2f-5701593b5329" />
+<img width="388" height="476" alt="image" src="https://github.com/user-attachments/assets/ab96deb2-0d8e-48e4-a49a-c2c3fafb73b1" />
 
 
-***
 
-## Results and Findings
+* Complex linguistic theories (like Appraisal) are **hard for both humans and machines**
+* LLMs are **useful assistants**, not replacements
+* Annotation quality strongly depends on:
 
-Key high‑level findings from the paper: 
+  * Clear guidelines
+  * Task design
+  * Level of granularity (sentence vs token/span)
 
-- LLMs can reach or surpass the agreement levels of linguists in training on Appraisal Attitude classification.  
-- The expert linguist remains the most consistent reference, but LLMs approximate that performance with careful prompt design and fine‑tuning.  
-- Certain Attitude categories and implicit evaluations remain challenging for both humans and models.  
-- Clear, detailed guidelines and span‑level annotation are crucial to improve reliability for complex evaluative phenomena.
+---
 
-***
+## 🚀 How to Use
 
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/happy522/Challenges-in-annotations-by-humans-and-LLMs.git
+cd Challenges-in-annotations-by-humans-and-LLMs
+```
+
+### 2. Run annotation experiments
+
+* Use prompt files in `/prompts`
+* Run scripts in `/models` or `/evaluation`
+
+### 3. Evaluate results
+
+* Metrics:
+
+  * Precision
+  * Recall
+  * F1-score
+  * Krippendorff’s Alpha
+
+---
+
+## 📈 Future Work
+
+* Shift from **sentence-level → span/token-level annotation**
+* Improve handling of:
+
+  * Implicit vs explicit evaluation
+* Better prompt strategies for:
+
+  * Multi-label classification
+* Address class imbalance
+
+---
+
+## 🤝 Contributions
+
+Contributions are welcome!
+Feel free to open issues or submit pull requests.
+---
+
+## 📬 Contact
+
+For questions or collaboration:
+
+* Open an issue on GitHub
+* Contact the authors via institutional emails
+
+---
