@@ -152,7 +152,12 @@ Three prompt strategies were tested:
 
 ---
 
-## 🔍 Insights
+## 🔍 Results:
+<img width="775" height="272" alt="image" src="https://github.com/user-attachments/assets/a11c39d5-a7a9-48ab-b6c2-216294959cb9" />
+<img width="770" height="302" alt="image" src="https://github.com/user-attachments/assets/64d64e5f-3535-45c1-ad2f-5701593b5329" />
+<img width="388" height="476" alt="image" src="https://github.com/user-attachments/assets/ab96deb2-0d8e-48e4-a49a-c2c3fafb73b1" />
+
+
 
 * Complex linguistic theories (like Appraisal) are **hard for both humans and machines**
 * LLMs are **useful assistants**, not replacements
