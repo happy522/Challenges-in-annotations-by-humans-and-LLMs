@@ -5,6 +5,18 @@ This repository contains the code, experimental setup, and supporting materials 
 **"Challenges in annotations by humans and LLMs: A case study of evaluative language"**
 M. Imamovic, A. Knierim, K. Pitroda, E. Lapshinova‑Koltunski
 
+Citation:
+
+@misc{imamovic2026challengesannotationshumansllms,
+      title={Challenges in annotations by humans and LLMs: A case study of evaluative language}, 
+      author={Mirela Imamovic and Aenne Cecilia Kristine Knierim and Khushi Pitroda and Ekaterina Lapshinova-Koltunski},
+      year={2026},
+      eprint={2607.28119},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2607.28119}, 
+}
+
 
 ---
 
