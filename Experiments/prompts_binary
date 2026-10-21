@@ -1,5 +1,11 @@
 # ==========================
-# PROMPTS: FIRST PROMPT 
+# PROMPTS: FIRST PROMPT - 
+(Few-shot prompting
+
+Chain-of-thought prompting
+
+Avoidance of ambiguity) - The same as the first multilabel prompt
+
 # ==========================
 
 PROMPT_BINARY = """
